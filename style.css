@@ -1,0 +1,25 @@
+.mytext{
+    background-color: darkmagenta;
+    color:#fff;
+    text-align: center;
+}
+.b1{
+    background-color: blue;
+    text-align: center;
+}
+.sp1{
+    background-color: brown;
+    display: block;
+}
+.block{
+    text-align: center;
+    background-color: burlywood;
+}
+.color{background-color: brown;}
+h1{
+    text-align: center;
+}
+h4{
+    background-color: blue;
+    text-align: center;
+}
